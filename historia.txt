@@ -1,4 +1,8 @@
 Esta es la historia de una persona que nunca fue capaz de
 lograr lo que se proponia hasta que estudio y trabajo 
+<<<<<<< HEAD
 muy fuerte para poder lograr mis sueños.
 Estoy agregando nueva informacion.
+=======
+muy fuerte para poder lograrlo.
+>>>>>>> cabecera
